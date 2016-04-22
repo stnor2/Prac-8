@@ -3,10 +3,4 @@ LIST OF MEMBERS FOR TEAM 076
 MEMBER 1 TIANYANG SONG
 MEMBER 2 LAILA HALIM
 MEMBER 3 KATIE HARRIS
-<<<<<<< HEAD
-MEMNER 4 SAMUEL NORTHCOTT
-
-we will make some edits and see the conflicts that we get. 
-=======
 MEMBER 4 SAMUEL NORTHCOTT
->>>>>>> origin/master
