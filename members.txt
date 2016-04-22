@@ -4,3 +4,5 @@ MEMBER 1 TIANYANG SONG
 MEMBER 2 LAILA HALIM
 MEMBER 3 KATIE HARRIS
 MEMNER 4 SAMUEL NORTHCOTT
+
+we will make some edits and see the conflicts that we get. 
